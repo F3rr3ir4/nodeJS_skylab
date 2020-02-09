@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/F3rr3ir4/nodeJS_skylab#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mogoose": "0.0.1-security"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
